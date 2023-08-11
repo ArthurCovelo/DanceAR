@@ -1,4 +1,4 @@
-# Projeto GrupoArthur_DanceAR
+# Projeto DanceAR
 
 ![preview](./.github/2.gif)
 
